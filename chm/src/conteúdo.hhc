@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+<param name="Font" value="tahoma,8,0">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introdu&ccedil;&atilde;o">
+		<param name="Local" value="html\introducao.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Menu Principal">
+		<param name="Local" value="html\menu_principal.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Usu&aacute;rios">
+		<param name="Local" value="html\menu_usuarios.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Criar Usu&aacute;rio">
+			<param name="Local" value="html\usuarios_criar_usuario.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Login">
+			<param name="Local" value="html\usuarios_login.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Logoff">
+			<param name="Local" value="html\usuarios_logoff.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alterar senha">
+			<param name="Local" value="html\usuarios_alterar_senha.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Excluir meu usu&aacute;rio">
+			<param name="Local" value="html\usuarios_excluir.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Cadastros">
+		<param name="Local" value="html\menu_cadastros.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contas">
+			<param name="Local" value="html\cadastros_contas.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Receitas">
+			<param name="Local" value="html\cadastros_receitas.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Despesas">
+			<param name="Local" value="html\cadastros_despesas.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Formas de Pagamento">
+			<param name="Local" value="html\cadastros_formas_pagamento.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Financeiro">
+		<param name="Local" value="html\menu_financeiro.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Agenda Financeira">
+			<param name="Local" value="html\financeiro_agenda_financeira.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contas a Pagar">
+			<param name="Local" value="html\financeiro_contas_pagar.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contas a Receber">
+			<param name="Local" value="html\financeiro_contas_receber.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Movimenta&ccedil;&atilde;o">
+		<param name="Local" value="html\menu_movimentacao.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Movimenta&ccedil;&atilde;o Geral">
+			<param name="Local" value="html\movimentacao_geral.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Receitas x Despesas">
+			<param name="Local" value="html\movimentacao_receitas_x_despesas.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="por Receitas/Despesas">
+			<param name="Local" value="html\movimentacao_por_receitas_despesas.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Simula&ccedil;&atilde;o">
+		<param name="Local" value="html\menu_simulacao.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Receitas x Despesas">
+			<param name="Local" value="html\simulacao_receitas_x_despesas.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gr&aacute;ficos">
+		<param name="Local" value="html\menu_graficos.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Geral por Conta">
+			<param name="Local" value="html\graficos_por_conta.htm">
+			</OBJECT>
+	</UL>		
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Configura&ccedil;&otilde;es">
+		<param name="Local" value="html\configuracoes.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Backup/Restore">
+		<param name="Local" value="html\menu_backup_restore.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Backup Manual">
+			<param name="Local" value="html\backup_manual.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Backup Autom&aacute;tico">
+			<param name="Local" value="html\backup_automatico.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Restaurar Backup">
+			<param name="Local" value="html\backup_restore.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ajuda">
+		<param name="Local" value="html\menu_ajuda.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tutorial">
+			<param name="Local" value="html\ajuda_tutorial.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Suporte T&eacute;cnico">
+			<param name="Local" value="html\ajuda_suporte.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Pesquisa de P&uacute;blico">
+			<param name="Local" value="html\ajuda_pesquisa_publico.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Change Log">
+			<param name="Local" value="html\ajuda_changelog.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Linha de comando">
+		<param name="Local" value="html\linha_de_comando.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sair">
+		<param name="Local" value="html\menu_sair.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

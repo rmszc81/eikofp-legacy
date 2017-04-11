@@ -1,0 +1,104 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=eikoFP.chm
+Contents file=Conteúdo.hhc
+Default Font=Tahoma,8,0
+Default Window=eikofp_help
+Default topic=html\introducao.htm
+Display compile progress=Yes
+Language=0x416 Portuguese (Brazil)
+Title=Eiko Finanças Pessoais - Ajuda
+
+[WINDOWS]
+eikofp_help="Eiko Finanças Pessoais - Help","Conteúdo.hhc",,"html\introducao.htm","html\introducao.htm",,,,,0x2120,,0x3006,[50,50,850,550],,,,,,,0
+
+
+[FILES]
+html\menu_principal.htm
+html\menu_usuarios.htm
+html\usuarios_criar_usuario.htm
+html\usuarios_login.htm
+html\usuarios_logoff.htm
+html\usuarios_alterar_senha.htm
+html\usuarios_excluir.htm
+html\menu_cadastros.htm
+html\cadastros_contas.htm
+html\cadastros_receitas.htm
+html\cadastros_despesas.htm
+html\cadastros_formas_pagamento.htm
+html\menu_financeiro.htm
+html\financeiro_agenda_financeira.htm
+html\financeiro_contas_pagar.htm
+html\financeiro_contas_pagar_lancar.htm
+html\financeiro_contas_pagar_baixar.htm
+html\financeiro_contas_receber.htm
+html\financeiro_contas_receber_lancar.htm
+html\financeiro_contas_receber_baixar.htm
+html\menu_movimentacao.htm
+html\movimentacao_geral.htm
+html\movimentacao_geral_detalhes.htm
+html\movimentacao_receitas_x_despesas.htm
+html\movimentacao_por_receitas_despesas.htm
+html\movimentacao_por_receitas_despesas_detalhes.htm
+html\menu_simulacao.htm
+html\simulacao_receitas_x_despesas.htm
+html\menu_graficos.htm
+html\graficos_por_conta.htm
+html\configuracoes.htm
+html\menu_backup_restore.htm
+html\backup_manual.htm
+html\backup_automatico.htm
+html\backup_restore.htm
+html\menu_ajuda.htm
+html\ajuda_tutorial.htm
+html\ajuda_suporte.htm
+html\ajuda_pesquisa_publico.htm
+html\ajuda_changelog.htm
+html\linha_de_comando.htm
+html\menu_sair.htm
+
+[ALIAS]
+
+IDH_INTRODUCAO=html\introducao.htm
+IDH_MENU_PRINCIPAL=html\menu_principal.htm
+IDH_MENU_USUARIOS=html\menu_usuarios.htm
+IDH_USUARIOS_CRIAR=html\usuarios_criar_usuario.htm
+IDH_USUARIOS_LOGIN=html\usuarios_login.htm
+IDH_USUARIOS_LOGOFF=html\usuarios_logoff.htm
+IDH_USUARIOS_ALTERAR_SENHA=html\usuarios_alterar_senha.htm
+IDH_USUARIOS_EXCLUIR=html\usuarios_excluir.htm
+IDH_MENU_CADASTROS=html\menu_cadastros.htm
+IDH_CADASTROS_CONTAS=html\cadastros_contas.htm
+IDH_CADASTROS_RECEITAS=html\cadastros_receitas.htm
+IDH_CADASTROS_DESPESAS=html\cadastros_despesas.htm
+IDH_CADASTROS_FORMAS_PAGAMENTO=html\cadastros_formas_pagamento.htm
+IDH_MENU_FINANCEIRO=html\menu_financeiro.htm
+IDH_FINANCEIRO_AGENDA=html\financeiro_agenda_financeira.htm
+IDH_MENU_MOVIMENTACAO=html\menu_movimentacao.htm
+IDH_MOVIMENTACAO_GERAL=html\movimentacao_geral.htm
+IDH_MOVIMENTACAO_GERAL_DETALHES=html\movimentacao_geral_detalhes.htm
+IDH_MOVIMENTACAO_RECEITAS_X_DESPESAS=html\movimentacao_receitas_x_despesas.htm
+IDH_MOVIMENTACAO_POR_RECEITAS_DESPESAS=html\movimentacao_por_receitas_despesas.htm
+IDH_MOVIMENTACAO_POR_RECEITAS_DESPESAS_DETALHES=html\movimentacao_por_receitas_despesas_detalhes.htm
+IDH_MENU_SIMULACAO=html\menu_simulacao.htm
+IDH_SIMULACAO_RECEITAS_X_DESPESAS=html\simulacao_receitas_x_despesas.htm
+IDH_MENU_GRAFICOS=html\menu_graficos.htm
+IDH_GRAFICOS_CONTA=html\graficos_por_conta.htm
+IDH_CONFIGURACOES=html\configuracoes.htm
+IDH_MENU_BACKUP=html\menu_backup_restore.htm
+IDH_BACKUP_MANUAL=html\backup_manual.htm
+IDH_BACKUP_AUTOMATICO=html\backup_automatico.htm
+IDH_BACKUP_RESTORE=html\backup_restore.htm
+IDH_MENU_AJUDA=html\menu_ajuda.htm
+IDH_AJUDA_TUTORIAL=html\ajuda_tutorial.htm
+IDH_AJUDA_SUPORTE=html\ajuda_suporte.htm
+IDH_AJUDA_PESQUISA_PUBLICO=html\ajuda_pesquisa_publico.htm
+IDH_AJUDA_CHANGELOG=html\ajuda_changelog.htm
+IDH_LINHA_DE_COMANDO=html\linha_de_comando.htm
+IDH_MENU_SAIR=html\menu_sair.htm
+
+[MAP]
+#include eikofp.h
+
+[INFOTYPES]
+

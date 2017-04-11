@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Lan&ccedil;ar Contas a Receber</title>
+		<style type="text/css">
+			<!--
+				.style3 {font-family: Tahoma; font-size: 8.5pt; line-height: 1.5;}
+				.style6 {font-family: Tahoma; font-size: 8.5pt; font-weight: bold; line-height: 1.5;}
+				
+				body,td,th {
+					font-family: Tahoma;
+					font-size: 8.5pt;
+					line-height: 1.5;
+				}
+				a {
+					font-family: Tahoma;
+					line-height: 1.5;
+				}
+				-->
+		</style>
+	</head>
+	<body>
+		<p align="left" class="style6">Lan&ccedil;ar Contas a Receber </p>
+		<p align="justify" class="style3"><strong>Onde encontrar</strong>:<br />
+			<a href="menu_principal.htm">Menu Principal</a> -&gt; <a href="menu_financeiro.htm">Financeiro</a> -&gt; <a href="financeiro_contas_receber.htm">Contas a Receber</a> -&gt; Lan&ccedil;ar 
+		</p>
+		<p align="justify" class="style3"><strong>Descri&ccedil;&atilde;o</strong>:<br />
+			Permite realizar o lan&ccedil;amento de uma nova conta a receber.
+		</p>
+		<p align="justify" class="style3"><strong>Imagem da tela</strong>:<br />
+			<img src="img/financeiro_contas_receber_lancar.png" />
+		</p>
+		<p align="justify" class="style3"><strong>Itens da tela </strong>:<br />
+			Vencimento: Data de vencimento do lan&ccedil;amento.<br />
+			- Lan&ccedil;ar m&uacute;ltiplos vencimentos: Define se o lan&ccedil;amento &eacute; m&uacute;ltiplo, ou seja, se cont&eacute;m mais de uma parcela.<br />
+			&nbsp;&nbsp; - Quantidade: Define a quantidade de lan&ccedil;amentos a ser realizado.<br />
+			&nbsp;&nbsp; - Lan&ccedil;ar a cada: Define o tempo de lan&ccedil;amento. Valor num&eacute;rico.<br />
+			&nbsp;&nbsp; - Selecione/Meses/Anos: Define o c&aacute;lculo do tempo para o lan&ccedil;amento. 
+			<br />
+			Tipo de receita: Permite selecionar qual receita ser&aacute; utilizada no lan&ccedil;amento.<br />
+			Valor: Valor do lan&ccedil;amento.<br />
+			Descri&ccedil;&atilde;o: Descri&ccedil;&atilde;o do lan&ccedil;amento. <br />
+			Forma de pagamento: Permite selecionar qual forma de pagamento ser&aacute; utilizada no lan&ccedil;amento.
+			<br />
+			Documento: Documento do lan&ccedil;amento.
+			<br />
+			Observa&ccedil;&otilde;es: Observa&ccedil;&otilde;es do lan&ccedil;amento, ou seja, quaisquer dados que o usu&aacute;rio deseje colocar a mais, apenas como refer&ecirc;ncia.<br />
+			- Baixar conta imediatamente: Define se o lan&ccedil;amento ser&aacute; baixado imediatamente. <br />
+			&nbsp;&nbsp; - Conta: Permite selecionar qual conta ser&aacute; utilizada na baixa imediata. 
+		</p>
+		<p align="justify" class="style3"><strong>Comandos da tela </strong>:<br />
+			Lan&ccedil;ar: Faz a valida&ccedil;&atilde;o dos dados inseridos nos campos e, em seguida, realiza a lan&ccedil;amento da conta a receber.
+			<br />
+			Cancelar: Cancela todas as altera&ccedil;&otilde;es realizadas fechando a janela posteriormente.
+		</p>
+		<p align="justify" class="style3"><strong>Observa&ccedil;&otilde;es</strong>:
+			<br />
+			- Antes de realizar o lan&ccedil;amento, a aplica&ccedil;&atilde;o verificar&aacute; se a data do vencimento &eacute; inferior &agrave; data atual. Caso positivo, ser&aacute; emitido um aviso informando que n&atilde;o &eacute; poss&iacute;vel realizar o lan&ccedil;amento com data de vencimento retroativa. Este comportamento pode ser alterado na tela de <a href="configuracoes.htm">configura&ccedil;&otilde;es</a>, selecionando a op&ccedil;&atilde;o [Permitir lan&ccedil;amentos retroativos]. <br />
+			- Ao marcar a op&ccedil;&atilde;o [Lan&ccedil;ar m&uacute;ltiplos vencimentos] o quadro [M&uacute;ltiplos vencimentos] ser&aacute; habilitado e a op&ccedil;&atilde;o [Baixar conta imediatamente] ser&aacute; desmarcada e desabilitada. A aplica&ccedil;&atilde;o n&atilde;o permite  realizar m&uacute;ltiplos lan&ccedil;amentos com baixa imediata, ou seja, para utilizar este recurso, dever&aacute; ser feito somente um lan&ccedil;amento por vez.<br />
+			- Realizando m&uacute;ltiplos lan&ccedil;amentos:<br /> 
+			&nbsp;&nbsp; - Exemplo, lan&ccedil;ar um recebimento com 6 parcelas, uma por m&ecirc;s:<br />
+			&nbsp;&nbsp;&nbsp; - Marcar a op&ccedil;&atilde;o [Lan&ccedil;ar m&uacute;ltiplos vencimentos];<br />
+			&nbsp;&nbsp;&nbsp; - Inserir no campo [quantidade] o valor 6;<br /> 
+			&nbsp;&nbsp;&nbsp; - Inserir no campo [lan&ccedil;ar a cada] o valor 1 e selecionar a op&ccedil;&atilde;o [ - meses];<br />
+			&nbsp;&nbsp;&nbsp; - A op&ccedil;&atilde;o [Antecipar recebimento caso data calculada n&atilde;o seja dia &uacute;til] altera a data de vencimento para a sexta-feira anterior &agrave; data calculada caso a mesma resulte em s&aacute;bado ou domingo.<br />
+			- Ao executar o comando de baixa imediata, caso a op&ccedil;&atilde;o <strong>Considerar data de vencimento na baixa imediata</strong> estiver marcada na tela de <a href="configuracoes.htm">configura&ccedil;&otilde;es</a>, a aplica&ccedil;&atilde;o ir&aacute; gravar a data selecionada nos campos vencimento e pagamento ao inv&eacute;s da data atual do sistema operacional. <br />
+			- Ao executar o comando de baixa imediata, caso a op&ccedil;&atilde;o [N&atilde;o permitir lan&ccedil;amentos duplicados] esteja marcada na tela de <a href="configuracoes.htm">configura&ccedil;&otilde;es</a>, o sistema ir&aacute; verificar se j&aacute; existe baixada na movimenta&ccedil;&atilde;o algum registro com o mesmo valor, mesmo documento e data de pagamento ou vencimento iguais. Se positivo, o sistema ir&aacute; impedir que a baixa seja feita. Do contr&aacute;rio, a baixa ser&aacute; feita normalmente. 
+		</p>
+	</body>
+</html>
